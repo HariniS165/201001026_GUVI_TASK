@@ -14,7 +14,7 @@ Tech Stack  used:
 ● JS
 ● PHP
 ● Redis
-● Mongo
+● MongoDB
 ● Mysql
 
 
