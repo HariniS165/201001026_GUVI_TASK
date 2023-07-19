@@ -1,4 +1,4 @@
-# 201001026_Simple register,login and update profile
+# Simple register,login and update profile
 Task:Developers
 Problem Statement :
 Create a signup page where a user can register, a login page to 
